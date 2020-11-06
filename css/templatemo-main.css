@@ -877,3 +877,7 @@ nav a:hover::before {
 	background: #eee;
 	margin-top: 21px;
 }
+
+.image img {
+	height: 170px;
+} 
